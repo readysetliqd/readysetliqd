@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @readysetliqd
-- 👀 I’m interested in trading forex, commodities, cryptocurrencies, and stocks. I intend to build out tools that will help my trading. 
-- 🌱 I’m currently learning Golang and Python
-- 💞️ I’m looking to collaborate on ... anything really, but I don't know anything yet
+- 👀 I’m interested in trading forex, commodities, cryptocurrencies, and stocks. I'm building out tools for my trading. 
+- 🌱 I’m currently learning Golang, Python, and PSQL
+- 💞️ I’m looking to collaborate on anything related to "web3" or trading
 - 📫 You can reach me on Twitter @readysetliqd
 
 <!---
